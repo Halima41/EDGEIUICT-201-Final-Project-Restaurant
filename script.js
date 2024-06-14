@@ -40,7 +40,7 @@ var swiper = new Swiper(".home-slider", {
   spaceBetween: 30,
   centeredSlides: true,
   autoplay: {
-    delay: 7500,
+    delay: 4400,
     disableOnInteraction: false,
   },
   pagination: {
@@ -54,7 +54,7 @@ var swiper = new Swiper(".review-slider", {
   spaceBetween: 20,
   centeredSlides: true,
   autoplay: {
-    delay: 7500,
+    delay: 4400,
     disableOnInteraction: false,
   },
   loop:true,
